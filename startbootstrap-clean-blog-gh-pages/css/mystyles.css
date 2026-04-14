@@ -1,0 +1,74 @@
+.header{
+    background-color: lightpink;
+    color: black;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+    font-size: 20px;
+    text-align: left;
+}
+
+.mainbody2{
+    text-align: center;
+     background-color: whitesmoke;
+}
+
+img{
+    display: block;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer{
+    background-color: pink;
+    color: black;
+    height: 25px;
+    line-height: 25px;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    text-align: center;
+}
+
+.footer a{
+    color: #333;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.footer a:hover{
+    background-color: palevioletred;
+    height: 25px;
+}
+
+.common{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+nav{
+    background-color: pink;
+    padding: 10px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 18px;
+}
+
+nav a{
+    color: #333;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    float: left;
+}
+
+nav a:hover{
+    background-color: palevioletred;
+}
